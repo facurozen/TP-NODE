@@ -22,3 +22,7 @@ const alumno2 = new Alumno('facurozen', '46871290');
 
 console.log(alumno1.mostrar());
 console.log(alumno2.mostrar());
+
+import {copiar} from './EJ04.js';
+
+copiar('./entrada.txt', './salida.txt');
