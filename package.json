@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/facurozen/TP-NODE/issues"
   },
-  "homepage": "https://github.com/facurozen/TP-NODE#readme"
+  "homepage": "https://github.com/facurozen/TP-NODE#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mssql": "^9.1.1"
+  }
 }
